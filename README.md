@@ -1,5 +1,5 @@
 # python_pillow_circular_thumbnail
-code example to show how to create circular thumbnail and overlap it on a background
+code example to show how to create circular thumbnail and overlap it on a background. Example created as answer for this [stackoverflow question](http://stackoverflow.com/questions/42991713/how-to-create-a-circular-image-using-python-pillow/42992521)
 
 **avatar.png:**
 [![enter image description here][1]][1]
