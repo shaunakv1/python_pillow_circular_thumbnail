@@ -11,7 +11,7 @@ im.putalpha(mask)
 
 output = ImageOps.fit(im, mask.size, centering=(0.5, 0.5))
 output.putalpha(mask)
-output.save('output.jpg')
+output.save('output.png')
 
 background = Image.open('back.jpg')
 background.paste(im, (150, 10), im)
